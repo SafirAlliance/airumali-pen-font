@@ -27,15 +27,15 @@
      inkscape:document-units="px"
      showgrid="true"
      units="px"
-     inkscape:zoom="0.89490909"
-     inkscape:cx="1375"
-     inkscape:cy="474.90857"
-     inkscape:window-width="2560"
-     inkscape:window-height="1377"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="484.36814"
+     inkscape:cy="66.468037"
+     inkscape:window-width="1080"
+     inkscape:window-height="1857"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -836,7 +836,17 @@
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:10"
        d="m 257.96876,195.13028 -10e-6,56.22396"
        id="path135367"
-       sodipodi:nodetypes="cc" /></g><g
+       sodipodi:nodetypes="cc" /><text
+       id="text817"
+       y="23.526703"
+       x="32.385021"
+       style="font-style:normal;font-variant:normal;font-weight:705;font-stretch:normal;font-size:10.5833px;line-height:1;font-family:'Cooper Hewitt';-inkscape-font-specification:'Cooper Hewitt weight=705';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         y="23.526703"
+         x="32.385021"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:705;font-stretch:normal;font-family:'Cooper Hewitt';-inkscape-font-specification:'Cooper Hewitt weight=705';text-align:start;text-anchor:start;stroke-width:0.264583"
+         id="tspan817">2011-2026 Hâlian (RTL) v20260313</tspan></text></g><g
      inkscape:groupmode="layer"
      id="g876"
      inkscape:label="text (technical romanization)"
@@ -1939,16 +1949,6 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:705;font-stretch:normal;font-size:7.76111px;font-family:'Cooper Hewitt';-inkscape-font-specification:'Cooper Hewitt weight=705';text-align:start;text-anchor:start;stroke-width:0.264583"
          id="tspan816">Qalání</tspan></text><text
-       id="text817"
-       y="23.526703"
-       x="32.385021"
-       style="font-style:normal;font-variant:normal;font-weight:705;font-stretch:normal;font-size:10.5833px;line-height:1;font-family:'Cooper Hewitt';-inkscape-font-specification:'Cooper Hewitt weight=705';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         y="23.526703"
-         x="32.385021"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:705;font-stretch:normal;font-family:'Cooper Hewitt';-inkscape-font-specification:'Cooper Hewitt weight=705';text-align:start;text-anchor:start;stroke-width:0.264583"
-         id="tspan817">2011-2026 Hâlian (RTL) v20260311</tspan></text><text
        id="text818"
        y="235.64459"
        x="101.69923"
@@ -3593,16 +3593,6 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:705;font-stretch:normal;font-size:7.76111px;font-family:'Cooper Hewitt';-inkscape-font-specification:'Cooper Hewitt weight=705';text-align:start;text-anchor:start;stroke-width:0.264583"
          id="tspan1005">Qalání</tspan></text><text
-       id="text1006"
-       y="23.526703"
-       x="32.385021"
-       style="font-style:normal;font-variant:normal;font-weight:705;font-stretch:normal;font-size:10.5833px;line-height:1;font-family:'Cooper Hewitt';-inkscape-font-specification:'Cooper Hewitt weight=705';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         y="23.526703"
-         x="32.385021"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:705;font-stretch:normal;font-family:'Cooper Hewitt';-inkscape-font-specification:'Cooper Hewitt weight=705';text-align:start;text-anchor:start;stroke-width:0.264583"
-         id="tspan1006">2011-2026 Hâlian (RTL) v20260311</tspan></text><text
        id="text1007"
        y="235.64459"
        x="101.69923"
@@ -4150,8 +4140,8 @@
      inkscape:label="text (ancient)"
      style="display:none"
      transform="translate(13.229168,-6.6145835)"
-     sodipodi:insensitive="true"
-     inkscape:highlight-color="#236c2f"><text
+     inkscape:highlight-color="#236c2f"
+     sodipodi:insensitive="true"><text
        id="text98"
        y="43.821617"
        x="456.40601"
@@ -5247,16 +5237,6 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:705;font-stretch:normal;font-size:7.76111px;font-family:'Cooper Hewitt';-inkscape-font-specification:'Cooper Hewitt weight=705';text-align:start;text-anchor:start;stroke-width:0.264583"
          id="tspan402">Qalání</tspan></text><text
-       id="text403"
-       y="23.526703"
-       x="32.385021"
-       style="font-style:normal;font-variant:normal;font-weight:705;font-stretch:normal;font-size:10.5833px;line-height:1;font-family:'Cooper Hewitt';-inkscape-font-specification:'Cooper Hewitt weight=705';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         y="23.526703"
-         x="32.385021"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:705;font-stretch:normal;font-family:'Cooper Hewitt';-inkscape-font-specification:'Cooper Hewitt weight=705';text-align:start;text-anchor:start;stroke-width:0.264583"
-         id="tspan403">2011-2025 Hâlian (RTL) v20251020</tspan></text><text
        id="text404"
        y="235.64459"
        x="101.69923"
@@ -5812,7 +5792,7 @@
        d="m 33.072916,124.02351 10e-7,4.96094 c 0,0 -1.1e-5,2.48047 4.134115,2.48047 0.826829,0 0.826823,-0.82683 0.826823,-0.82683 l -1.653646,-0.82682 c 0,0 1.6e-5,0.82682 -0.826823,0.82682 -0.826799,-1e-5 -0.826823,-0.82682 -0.826823,-0.82682 l -10e-7,-4.96094 z"
        sodipodi:nodetypes="ccsccsccc" /><path
        id="path223"
-       style="fill:#ff0000;stroke:none;stroke-width:1.65365;stroke-linejoin:bevel;fill-opacity:1"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.65365;stroke-linejoin:bevel"
        d="m 494.44013,99.218842 3.30729,6.201168 -3.30729,6.20117 1.65364,0.82682 2.70113,-5.06429 2.25981,4.23747 1.65365,0.82682 -3.30729,-6.20117 3.30729,-6.20117 -1.65365,-0.826818 -2.70113,5.064288 -2.25981,-4.23747 z" /><text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6189,12 +6169,8 @@
        style="display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 524.20569,66.145912 c -3.3073,-10e-6 -3.3073,3.30729 -3.3073,3.30729 v 5.78776 c 0,0 0,4.13411 4.9609,4.13412 3.3073,10e-6 3.3073,-3.30729 3.3073,-3.30729 v -5.78776 c 0,0 0,-4.13411 -4.9609,-4.13412 z m 1.6536,0.82682 c 1.6537,0 1.6537,2.48047 1.6537,2.48047 v 5.78776 c 0,0 0,3.3073 -3.3073,3.3073 -1.6537,0 -1.6537,-2.48047 -1.6537,-2.48047 v -5.78776 c 0,0 0,-3.3073 3.3073,-3.3073 z" /><path
        id="path224"
-       style="fill:#ff0000;stroke:none;stroke-width:1.65365;stroke-linejoin:bevel;fill-opacity:1"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.65365;stroke-linejoin:bevel"
        d="m 494.44013,132.29175 3.30729,6.20117 -3.30729,6.20117 1.65364,0.82682 2.70113,-5.06429 2.25981,4.23747 1.65365,0.82682 -3.30729,-6.20117 3.30729,-6.20117 -1.65365,-0.82682 -2.70113,5.06429 -2.25981,-4.23747 z" /><path
-       id="path74289"
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 35.55278,26.458327 c -1.65365,0 -1.65365,1.65365 -1.65365,1.65365 0,0 7.3e-4,2.07865 3.17345,2.42983 -0.48991,0.49972 -1.22904,0.87746 -2.34611,0.87746 -4.96094,0 -4.96094,-5.78776 -4.96094,-5.78776 l -1.65364,-0.82682 c 0,0 0,7.44141 8.26822,7.4414 3.30739,0 3.30739,-3.3073 3.30739,-3.3073 0,0 -6.3e-4,-2.48046 -4.13472,-2.48046 z m 1.65416,0.82683 c 0.8268,10e-6 0.8263,0.82682 0.8263,0.82682 0,0 1.8e-4,1.65363 -1.65364,1.65364 -0.8269,0 -0.82682,-0.82682 -0.82682,-0.82682 0,0 4.4e-4,-1.65363 1.65416,-1.65364 z"
-       sodipodi:nodetypes="sccsccscsscscs" /><path
        id="path26040"
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 74.414113,90.95061 c -3.30729,0 -3.30729,1.748219 -3.30729,3.30729 0,1.559071 3.30729,3.30729 3.30729,3.30729 l 1.65365,0.82682 c 0,0 3.30729,-1.748219 3.30729,-3.30729 0,-2.152564 -10e-6,-4.13411 -4.96094,-4.13411 z m 1.65365,0.82682 c 1.65364,0 1.65364,1.486753 1.65364,2.48047 0,1.364188 -2.89388,2.89388 -2.89388,2.89388 0,0 -2.067061,-1.092639 -2.06706,-2.06706 10e-7,-1.559074 1e-5,-3.30729 3.3073,-3.30729 z"
@@ -6257,9 +6233,6 @@
        id="path1188"
        style="display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 34.72656,33.072917 c -3.3073,-10e-6 -3.30729,3.30729 -3.30729,3.30729 v 5.78776 c 0,0 4e-5,4.13411 4.96094,4.13412 3.3073,1e-5 3.30729,-3.30729 3.30729,-3.30729 v -5.78776 c 0,0 -2e-5,-4.13411 -4.96094,-4.13412 z m 1.65365,0.82682 c 1.65364,0 1.65365,2.48047 1.65365,2.48047 v 5.78776 c 0,0 0,3.3073 -3.3073,3.3073 -1.65369,0 -1.65364,-2.48047 -1.65364,-2.48047 v -5.78776 c 0,0 0,-3.3073 3.30729,-3.3073 z" /><path
-       id="path1189"
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 34.72657,47.128907 c -6.61459,0 -6.61458,6.61458 -6.61458,6.61458 l 1.65364,0.82682 c 0,0 9e-5,-6.61458 6.61458,-6.61458 0.79192,0 1.20399,0.56881 1.41904,1.16169 -0.56404,-0.20245 -1.2945,-0.33487 -2.24637,-0.33487 -1.65365,0 -1.65365,1.65365 -1.65365,1.65365 0,0 10e-6,2.48046 4.13411,2.48047 1.65364,0 1.65417,-1.65365 1.65417,-1.65365 0,0 -3e-5,-4.1341 -4.96094,-4.13411 z m 2.48047,2.48047 c 0.8268,10e-6 0.8263,0.82682 0.8263,0.82682 0,0 1.8e-4,1.65363 -1.65364,1.65364 -0.8269,0 -0.82682,-0.82682 -0.82682,-0.82682 0,0 4.4e-4,-1.65363 1.65416,-1.65364 z" /><path
        id="path1211"
        style="display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 34.72656,132.29173 c -3.3073,-1e-5 -3.30729,3.30729 -3.30729,3.30729 v 5.78776 c 0,0 4e-5,4.13411 4.96094,4.13412 3.3073,10e-6 3.30729,-3.30729 3.30729,-3.30729 v -5.78776 c 0,0 -2e-5,-4.13411 -4.96094,-4.13412 z m 1.65365,0.82682 c 1.65364,0 1.65365,2.48047 1.65365,2.48047 v 5.78776 c 0,0 0,3.3073 -3.3073,3.3073 -1.65369,0 -1.65364,-2.48047 -1.65364,-2.48047 v -5.78776 c 0,0 0,-3.3073 3.30729,-3.3073 z" /><path
@@ -7151,4 +7124,12 @@
        id="path43"
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -10.748653,33.07291 4e-5,15.709634 c 0,0 0,4.13411 4.9609004,4.13412 3.307295,1e-5 3.307295,-3.30729 3.307295,-3.30729 l -1.653595,-0.82683 c 0,0 0,3.3073 -3.3073,3.3073 -1.6537,0 -1.6537,-2.48047 -1.6537,-2.48047 l -4e-5,-15.709634 z"
-       sodipodi:nodetypes="ccsccsccc" /></g></svg>
+       sodipodi:nodetypes="ccsccsccc" /><path
+       id="path20-0"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 36.380112,32.246074 c 3.30739,0 3.30739,-3.3073 3.30739,-3.3073 0,0 -6.3e-4,-2.48046 -4.13472,-2.48046 -1.65365,0 -1.65365,1.65365 -1.65365,1.65365 0,0 7.3e-4,2.07865 3.17345,2.42983 -0.48991,0.49972 -1.22904,0.87746 -2.34611,0.87746 l -3.30725,2e-5 1.65365,0.82682 z m 0.82683,-4.96093 c 0.8268,10e-6 0.8263,0.82682 0.8263,0.82682 0,0 1.8e-4,1.65363 -1.65364,1.65364 -0.8269,0 -0.82682,-0.82682 -0.82682,-0.82682 0,0 4.4e-4,-1.65363 1.65416,-1.65364 z"
+       sodipodi:nodetypes="ccsccccccscscs" /><path
+       id="path1189"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 31.419272,47.128906 1.653646,0.826823 3.307808,-10e-7 c 0.79192,0 1.20399,0.56881 1.41904,1.16169 -0.56404,-0.20245 -1.2945,-0.33487 -2.24637,-0.33487 -1.65365,0 -1.65365,1.65365 -1.65365,1.65365 0,0 10e-6,2.48046 4.13411,2.48047 1.65364,0 1.65417,-1.65365 1.65417,-1.65365 0,0 -3e-5,-4.1341 -4.96094,-4.13411 z m 5.788284,2.480472 c 0.8268,1e-5 0.8263,0.82682 0.8263,0.82682 0,0 1.8e-4,1.65363 -1.65364,1.65364 -0.8269,0 -0.82682,-0.82682 -0.82682,-0.82682 0,0 4.4e-4,-1.65363 1.65416,-1.65364 z"
+       sodipodi:nodetypes="ccccscscccscscs" /></g></svg>
